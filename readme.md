@@ -16,3 +16,6 @@
 http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/
 
 http://www.infoq.com/cn/minibooks/download/ES6-in-Depth
+
+
+http://blog.codinglabs.org/
