@@ -10,3 +10,7 @@
 【jwt+sign签名】
 	---- 用户登录（sign签名，加密数据）---》jwt匹配数据库  ---》成功，返回Token（Token包含用户的id值） 
 	---- 用户带着Token发出请求，经过Authenticate中间件判断用户是否已经登陆过 ---》是，则继续操作；否，返回未认证
+
+
+【相关技术文档】
+http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/
